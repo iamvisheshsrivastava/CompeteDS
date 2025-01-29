@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/compete-ds/static/css/main.ca67ef22.css",
-    "main.js": "/compete-ds/static/js/main.18928d5d.js",
+    "main.js": "/compete-ds/static/js/main.0769dedc.js",
     "static/js/488.81d9b484.chunk.js": "/compete-ds/static/js/488.81d9b484.chunk.js",
     "index.html": "/compete-ds/index.html",
     "main.ca67ef22.css.map": "/compete-ds/static/css/main.ca67ef22.css.map",
-    "main.18928d5d.js.map": "/compete-ds/static/js/main.18928d5d.js.map",
+    "main.0769dedc.js.map": "/compete-ds/static/js/main.0769dedc.js.map",
     "488.81d9b484.chunk.js.map": "/compete-ds/static/js/488.81d9b484.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca67ef22.css",
-    "static/js/main.18928d5d.js"
+    "static/js/main.0769dedc.js"
   ]
 }
